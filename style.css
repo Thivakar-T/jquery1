@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    word-break: break-word;
+
+}
+.box1{
+    border: 1px solid green;
+    border-radius: 5px;
+    height:auto;
+}
+label{
+    font-size: 18px;
+}
+label sup{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.c{
+    border-radius: 5px;
+    font-size: 18px;
+    margin-right: 1%;
+}
+.v{
+    border-radius: 5px;
+    font-size: 18px;
+}
+.note{
+    font-size: 18px;
+}
+#id01{
+    position: relative;
+}
